@@ -3,5 +3,5 @@ world
 my name
 is
 remote
-g--conflict--here--t
+g--conict--here--t
 conflict-here!!
